@@ -120,3 +120,9 @@ Enter edge (3,3): 7
 Process exited after 13.15 seconds with return value 0
 Press any key to continue . . .
 
+11)Floyds-Algorithm
+0   3   5   6
+7   0   2   3
+5   8   0   1
+INF INF INF  0
+
